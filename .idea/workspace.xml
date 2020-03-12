@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70228db6-8807-47d7-81e7-01bfa77a6715" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/numbers/numbers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/arrays.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,25 +48,47 @@
       <option name="presentableId" value="Default" />
       <updated>1583806208019</updated>
       <workItem from="1583806209161" duration="2019000" />
-      <workItem from="1583894869553" duration="1283000" />
+      <workItem from="1583894869553" duration="2138000" />
+      <workItem from="1583971571230" duration="706000" />
+      <workItem from="1583979931223" duration="997000" />
     </task>
+    <task id="LOCAL-00001" summary="numbers module finished">
+      <created>1583896360784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583896360784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="numbers module finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="numbers module finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="110" key="#PHP" timestamp="1583806542811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1583806542811" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1583894887850">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1583896360303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583894887850" />
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583894870048">
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583896360303" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1583971585397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583894870048" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583971585397" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583896366085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583896366085" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583979932340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583979932340" />
   </component>
 </project>
