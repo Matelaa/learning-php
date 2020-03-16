@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70228db6-8807-47d7-81e7-01bfa77a6715" name="Default Changelist" comment="arrays module finished">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-dimensional-arrays/multi-dimensional-arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/multi-dimensional-arrays/multi-dimensional-arrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/loops.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="455579bf-cd3c-4532-b286-f890cc0e3d25" name="Revert &quot;arrays module finished&quot;" comment="Revert &quot;arrays module finished&quot;&#10;&#10;This reverts commit 7a6e5b57" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0.6" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1YuxJYuCrcBGEBKTK6obi6xNiEW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,12 +32,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -53,7 +56,14 @@
       <workItem from="1583971571230" duration="706000" />
       <workItem from="1583979931223" duration="2291000" />
       <workItem from="1584158102150" duration="666000" />
-      <workItem from="1584318206516" duration="1284000" />
+      <workItem from="1584318206516" duration="1909000" />
+      <workItem from="1584321031797" duration="1268000" />
+      <workItem from="1584322317106" duration="226000" />
+      <workItem from="1584322550679" duration="99000" />
+      <workItem from="1584322658591" duration="502000" />
+      <workItem from="1584323222805" duration="57000" />
+      <workItem from="1584323341621" duration="136000" />
+      <workItem from="1584323502941" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="numbers module finished">
       <created>1583896360784</created>
@@ -101,10 +111,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="arrays module finished" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="667" y="110" key="#PHP" timestamp="1583806542811">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1584323866540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1583806542811" />
+    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1584323866540" />
+    <state x="667" y="110" key="#PHP" timestamp="1584323870214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1584323870214" />
     <state x="152" y="114" width="1472" height="812" key="CommitChangelistDialog2" timestamp="1583982206261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -113,17 +127,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584319575265" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1584318266146">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1584319635189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584318266146" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584319635189" />
+    <state x="0" y="166" key="SettingsEditor" timestamp="1584323520800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584323520800" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583896366085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583896366085" />
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584318212222">
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584323502752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584318212222" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584323502752" />
   </component>
 </project>
