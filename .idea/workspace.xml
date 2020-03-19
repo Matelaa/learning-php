@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70228db6-8807-47d7-81e7-01bfa77a6715" name="Default Changelist" comment="arrays module finished">
-      <change afterPath="$PROJECT_DIR$/booleans-and-comparisons/boleans-and-comparions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="455579bf-cd3c-4532-b286-f890cc0e3d25" name="Revert &quot;arrays module finished&quot;" comment="Revert &quot;arrays module finished&quot;&#10;&#10;This reverts commit 7a6e5b57" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <workItem from="1584588517112" duration="66000" />
       <workItem from="1584588615551" duration="629000" />
       <workItem from="1584644176775" duration="619000" />
-      <workItem from="1584646679743" duration="504000" />
+      <workItem from="1584646679743" duration="764000" />
     </task>
     <task id="LOCAL-00001" summary="numbers module finished">
       <created>1583896360784</created>
