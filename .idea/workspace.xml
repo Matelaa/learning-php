@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70228db6-8807-47d7-81e7-01bfa77a6715" name="Default Changelist" comment="arrays module finished">
-      <change afterPath="$PROJECT_DIR$/continue-and-break/continue-and-break.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/Functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="455579bf-cd3c-4532-b286-f890cc0e3d25" name="Revert &quot;arrays module finished&quot;" comment="Revert &quot;arrays module finished&quot;&#10;&#10;This reverts commit 7a6e5b57" />
@@ -66,7 +66,7 @@
       <workItem from="1584588517112" duration="66000" />
       <workItem from="1584588615551" duration="629000" />
       <workItem from="1584644176775" duration="619000" />
-      <workItem from="1584646679743" duration="3183000" />
+      <workItem from="1584646679743" duration="5934000" />
     </task>
     <task id="LOCAL-00001" summary="numbers module finished">
       <created>1583896360784</created>
@@ -118,10 +118,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1584323866540" />
-    <state x="667" y="110" key="#PHP" timestamp="1584323870214">
+    <state x="667" y="110" key="#PHP" timestamp="1584653426879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1584323870214" />
+    <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1584653426879" />
     <state x="167" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584588575397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -134,10 +134,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584319575265" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1584648659196">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1584651867621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584648659196" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584651867621" />
     <state x="0" y="166" key="SettingsEditor" timestamp="1584646666924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -150,5 +150,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584646681995" />
+    <state x="289" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584652086838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="289" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584652086838" />
   </component>
 </project>
