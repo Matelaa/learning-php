@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70228db6-8807-47d7-81e7-01bfa77a6715" name="Default Changelist" comment="arrays module finished">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/loops.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/booleans-and-comparisons/boleans-and-comparions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="455579bf-cd3c-4532-b286-f890cc0e3d25" name="Revert &quot;arrays module finished&quot;" comment="Revert &quot;arrays module finished&quot;&#10;&#10;This reverts commit 7a6e5b57" />
@@ -39,7 +38,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,7 +62,11 @@
       <workItem from="1584322658591" duration="502000" />
       <workItem from="1584323222805" duration="57000" />
       <workItem from="1584323341621" duration="136000" />
-      <workItem from="1584323502941" duration="877000" />
+      <workItem from="1584323502941" duration="1841000" />
+      <workItem from="1584588517112" duration="66000" />
+      <workItem from="1584588615551" duration="629000" />
+      <workItem from="1584644176775" duration="619000" />
+      <workItem from="1584646679743" duration="504000" />
     </task>
     <task id="LOCAL-00001" summary="numbers module finished">
       <created>1583896360784</created>
@@ -119,6 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1584323870214" />
+    <state x="167" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584588575397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="167" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584588575397" />
     <state x="152" y="114" width="1472" height="812" key="CommitChangelistDialog2" timestamp="1583982206261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,21 +134,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584319575265" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1584319635189">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1584324646137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584319635189" />
-    <state x="0" y="166" key="SettingsEditor" timestamp="1584323520800">
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584324646137" />
+    <state x="0" y="166" key="SettingsEditor" timestamp="1584646666924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584323520800" />
+    <state x="0" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584646666924" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583896366085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583896366085" />
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584323502752">
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584646681995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584323502752" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584646681995" />
   </component>
 </project>
