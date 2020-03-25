@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70228db6-8807-47d7-81e7-01bfa77a6715" name="Default Changelist" comment="arrays module finished">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pizza Project/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pizza Project/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pizza Project/templates/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pizza Project/templates/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pizza Project/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pizza Project/templates/header.php" afterDir="false" />
     </list>
     <list id="455579bf-cd3c-4532-b286-f890cc0e3d25" name="Revert &quot;arrays module finished&quot;" comment="Revert &quot;arrays module finished&quot;&#10;&#10;This reverts commit 7a6e5b57" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP&lt;7.4.3&gt;" />
   <component name="ProjectId" id="1YuxJYuCrcBGEBKTK6obi6xNiEW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,14 +31,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/xampp/php/php.ini" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -83,7 +81,8 @@
       <workItem from="1584808798190" duration="369000" />
       <workItem from="1584922943977" duration="438000" />
       <workItem from="1584926350214" duration="2507000" />
-      <workItem from="1585107289212" duration="5396000" />
+      <workItem from="1585107289212" duration="6117000" />
+      <workItem from="1585161837795" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="numbers module finished">
       <created>1583896360784</created>
@@ -131,14 +130,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="arrays module finished" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1584323866540">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1585163079640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1584323866540" />
-    <state x="667" y="110" key="#PHP" timestamp="1584653426879">
+    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1585163079640" />
+    <state x="667" y="110" key="#PHP" timestamp="1585161898451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1584653426879" />
+    <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1585161898451" />
     <state x="167" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584588575397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -151,22 +150,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585109906494" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585163020855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585163020855" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1585114918179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585114918179" />
-    <state x="0" y="166" key="SettingsEditor" timestamp="1584646666924">
+    <state x="607" y="163" key="SettingsEditor" timestamp="1585163117981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584646666924" />
+    <state x="607" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585163117981" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583896366085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583896366085" />
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585107389673">
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585161837990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585107389673" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585161837990" />
     <state x="289" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584933981950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
