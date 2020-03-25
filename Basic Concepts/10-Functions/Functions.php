@@ -1,6 +1,6 @@
 <?php
 
-    // Functions
+    // 10-Functions
 
     // Without paramater
 //    function sayHello() {

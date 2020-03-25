@@ -20,8 +20,8 @@
     <title>Include & Require</title>
 </head>
 <body>
-    <?php include ('content.php') ?>
-    <?php include ('content.php') ?>
-    <?php include ('content.php') ?>
+    <?php include('content.php') ?>
+    <?php include('content.php') ?>
+    <?php include('content.php') ?>
 </body>
 </html>

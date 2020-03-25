@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70228db6-8807-47d7-81e7-01bfa77a6715" name="Default Changelist" comment="arrays module finished">
-      <change afterPath="$PROJECT_DIR$/include-and-require/content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include-and-require/include-and-require.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include-and-require/persons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concepts/4-Arrays/arrays.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-dimensional-arrays/multi-dimensional-arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concepts/5-Multi Dimensional Arrays/multi-dimensional-arrays.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers/numbers.php" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concepts/3-Numbers/numbers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/strings.php" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concepts/2-Strings/strings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/variables.php" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concepts/1-Variables/variables.php" afterDir="false" />
     </list>
     <list id="455579bf-cd3c-4532-b286-f890cc0e3d25" name="Revert &quot;arrays module finished&quot;" comment="Revert &quot;arrays module finished&quot;&#10;&#10;This reverts commit 7a6e5b57" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\josem\Documents\Developer\learning-php\Basic Concepts\10-Functions" />
+      <recent name="C:\Users\josem\Documents\Developer\learning-php\Basic Concepts\9-Continue and Break" />
+      <recent name="C:\Users\josem\Documents\Developer\learning-php\Basic Concepts\8-Conditional Statements" />
+      <recent name="C:\Users\josem\Documents\Developer\learning-php\Basic Concepts\7-Booleans and Comparisons" />
+      <recent name="C:\Users\josem\Documents\Developer\learning-php\Basic Concepts\6-Loops" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,7 +84,8 @@
       <workItem from="1584664329795" duration="599000" />
       <workItem from="1584808798190" duration="369000" />
       <workItem from="1584922943977" duration="438000" />
-      <workItem from="1584926350214" duration="2262000" />
+      <workItem from="1584926350214" duration="2507000" />
+      <workItem from="1585107289212" duration="911000" />
     </task>
     <task id="LOCAL-00001" summary="numbers module finished">
       <created>1583896360784</created>
@@ -153,10 +165,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583896366085" />
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584926369252">
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585107389673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584926369252" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585107389673" />
     <state x="289" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584933981950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

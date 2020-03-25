@@ -34,7 +34,7 @@
 //    $age *= 2;
 //    echo $age;
 
-    // Number Functions
+    // Number 10-Functions
 
     // round a number to the nearest integer (down)
 //    echo floor($pi);
