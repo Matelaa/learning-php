@@ -1,8 +1,9 @@
 # Learning PHP :elephant:
 
 This repository is just to exercise and learn some PHP concepts, feel free to check something or even fix it if you want. :grin:
+<hr>
 
-## [Basic Concepts](https://github.com/Matelaa/learning-php/tree/master/Basic%20Concepts) :books:
+## Basic Concepts :books:
 
 Here you will find the most basic and necessary concepts to start with PHP, involving logic, repetition structure, conditional and the like.
 
@@ -18,6 +19,7 @@ Here you will find the most basic and necessary concepts to start with PHP, invo
 * [10 - Functions](https://github.com/Matelaa/learning-php/tree/master/Basic%20Concepts/10-Functions)
 * [11 - Variable Scope](https://github.com/Matelaa/learning-php/tree/master/Basic%20Concepts/11-Variable%20Scope)
 * [12 - Include and Require](https://github.com/Matelaa/learning-php/tree/master/Basic%20Concepts/12-Include%20and%20Require)
+<hr>
 
 ## Credits :mortar_board:
 
