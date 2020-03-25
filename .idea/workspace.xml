@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="70228db6-8807-47d7-81e7-01bfa77a6715" name="Default Changelist" comment="creating a form to create a pizza, learning about $_POST and $_GET, making some style to form">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Project/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pizza Project/add.php" afterDir="false" />
     </list>
     <list id="455579bf-cd3c-4532-b286-f890cc0e3d25" name="Revert &quot;arrays module finished&quot;" comment="Revert &quot;arrays module finished&quot;&#10;&#10;This reverts commit 7a6e5b57" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP&lt;7.4.3&gt;" />
   <component name="ProjectId" id="1YuxJYuCrcBGEBKTK6obi6xNiEW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -83,6 +84,7 @@
       <workItem from="1585107289212" duration="5396000" />
       <workItem from="1585178051039" duration="11000" />
       <workItem from="1585178063213" duration="25000" />
+      <workItem from="1585178167160" duration="548000" />
     </task>
     <task id="LOCAL-00001" summary="numbers module finished">
       <created>1583896360784</created>
@@ -135,10 +137,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1584323866540" />
-    <state x="667" y="110" key="#PHP" timestamp="1584653426879">
+    <state x="667" y="110" key="#PHP" timestamp="1585178686654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1584653426879" />
+    <state x="667" y="110" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1585178686654" />
     <state x="167" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584588575397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
